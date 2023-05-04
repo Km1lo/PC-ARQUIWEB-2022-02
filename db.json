@@ -1,0 +1,214 @@
+{
+  "artists": [
+    {
+      "id": 8,
+      "name": "The asdasd",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/The_Beatles_in_America.JPG/220px-The_Beatles_in_America.JPG",
+      "favoritesport": "Voley",
+      "point": "23"
+    },
+    {
+      "id": 10,
+      "name": "The Beatles",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/The_Beatles_in_America.JPG/220px-The_Beatles_in_America.JPG",
+      "favoritesport": "Soccer",
+      "point": "63"
+    },
+    {
+      "id": 11,
+      "name": "The Beatles",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/The_Beatles_in_America.JPG/220px-The_Beatles_in_America.JPG",
+      "favoritesport": "Soccer",
+      "point": "78"
+    },
+    {
+      "id": 12,
+      "name": "The Beatles",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/The_Beatles_in_America.JPG/220px-The_Beatles_in_America.JPG",
+      "favoritesport": "Soccer",
+      "point": "76"
+    },
+    {
+      "id": 14,
+      "name": "The Beatles",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/The_Beatles_in_America.JPG/220px-The_Beatles_in_America.JPG",
+      "favoritesport": "Soccer",
+      "point": "65"
+    },
+    {
+      "id": 15,
+      "name": "The Beatles",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/The_Beatles_in_America.JPG/220px-The_Beatles_in_America.JPG",
+      "favoritesport": "Soccer",
+      "point": "34"
+    },
+    {
+      "id": 16,
+      "name": "The Beatles",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/The_Beatles_in_America.JPG/220px-The_Beatles_in_America.JPG",
+      "favoritesport": "Soccer",
+      "point": "21"
+    },
+    {
+      "id": 17,
+      "name": "ds",
+      "photo": "asd",
+      "favoritesport": "ds",
+      "point": "23"
+    },
+    {
+      "id": 18,
+      "name": "asd",
+      "photo": "s",
+      "favoritesport": "s",
+      "point": "12"
+    },
+    {
+      "id": 19,
+      "name": "nombre",
+      "photo": "phto",
+      "favoritesport": "asd",
+      "point": "23"
+    },
+    {
+      "id": 20,
+      "name": "asd",
+      "photo": "asdas",
+      "favoritesport": "asd",
+      "point": "34"
+    },
+    {
+      "id": 21,
+      "name": "asd",
+      "photo": "asd",
+      "favoritesport": "ger",
+      "point": "34"
+    },
+    {
+      "id": 22,
+      "name": "sdasd",
+      "photo": "werqweq",
+      "favoritesport": "11ad",
+      "point": "45"
+    },
+    {
+      "id": 23,
+      "name": "asdas",
+      "photo": "fdsfa",
+      "favoritesport": "qwed",
+      "point": "56"
+    },
+    {
+      "id": 24,
+      "name": "q",
+      "photo": "ewq",
+      "favoritesport": "q",
+      "point": "456"
+    },
+    {
+      "id": 25,
+      "name": "camilo",
+      "photo": "foto",
+      "favoritesport": "asdsad",
+      "point": "43"
+    },
+    {
+      "id": 26,
+      "name": "cad",
+      "photo": "sadsad",
+      "favoritesport": "asdasd",
+      "point": "23"
+    },
+    {
+      "id": 27,
+      "name": "asd",
+      "photo": "sad",
+      "favoritesport": "asd",
+      "point": "asd"
+    },
+    {
+      "id": 28,
+      "name": "dsf",
+      "photo": "df",
+      "favoritesport": "dsf",
+      "point": "dsf"
+    },
+    {
+      "id": 29,
+      "name": "camilo",
+      "photo": "asd",
+      "favoritesport": "asd",
+      "point": "sd"
+    },
+    {
+      "id": 30,
+      "name": "asd",
+      "photo": "asdas",
+      "favoritesport": "sad",
+      "point": "23"
+    },
+    {
+      "id": 31,
+      "name": "validado",
+      "photo": "validado",
+      "favoritesport": "validado",
+      "point": "validado"
+    },
+    {
+      "id": 32,
+      "name": "ds",
+      "photo": "ds",
+      "favoritesport": "sd",
+      "point": "asd"
+    },
+    {
+      "id": 33,
+      "name": "asd",
+      "photo": "sad",
+      "favoritesport": "asd",
+      "point": "ds"
+    },
+    {
+      "id": 34,
+      "name": "cads",
+      "photo": "asd",
+      "favoritesport": "wsd",
+      "point": "s"
+    },
+    {
+      "id": 35,
+      "name": "acasd",
+      "photo": "wes",
+      "favoritesport": "sad",
+      "point": "100"
+    },
+    {
+      "id": 36,
+      "name": "ADS",
+      "photo": "DSAD",
+      "favoritesport": "SDA",
+      "point": "SD"
+    },
+    {
+      "id": 37,
+      "name": "asds",
+      "photo": "sad",
+      "favoritesport": "asd",
+      "point": "23"
+    },
+    {
+      "id": 38,
+      "name": "camilo",
+      "photo": "asdasd",
+      "favoritesport": "sad",
+      "point": "23"
+    },
+    {
+      "id": 39,
+      "name": "cad",
+      "photo": "sd",
+      "favoritesport": "we",
+      "point": "2"
+    }
+  ]
+}

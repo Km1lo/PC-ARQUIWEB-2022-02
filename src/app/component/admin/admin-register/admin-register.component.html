@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+
+
+  <div class="container-lg" style="margin-top: 50px;">
+    <div style="text-align: center;">
+      <h1>Registar Comentarios</h1>
+    </div>
+  </div>
+
+
+
+  <ng-container>
+  <div class="container" style="text-align: center;">
+    <form [formGroup]="forms" (submit)="aceptar()">
+
+      <mat-form-field class="example-full-width">
+        <mat-label>Id</mat-label>
+        <input matInput hidden placeholder="id" formControlName="id">
+      </mat-form-field>
+      <br>
+
+      <mat-form-field class="example-full-width">
+        <mat-label>Name</mat-label>
+        <input matInput required placeholder="name" formControlName="name">
+      </mat-form-field>
+      <br>
+
+      <mat-form-field class="example-full-width">
+        <mat-label>Photo</mat-label>
+        <input matInput placeholder="photo" formControlName="photo">
+      </mat-form-field>
+      <br>
+
+      <mat-form-field class="example-full-width">
+        <mat-label>Favorite Sport</mat-label>
+        <input matInput placeholder="favoritesport" formControlName="favoritesport">
+      </mat-form-field>
+      <br>
+
+      <mat-form-field class="example-full-width">
+        <mat-label>Point</mat-label>
+        <input matInput required placeholder="point" formControlName="point">
+      </mat-form-field>
+      <br>
+
+      <button mat-raised-button type="submit" color="warn" class="mx-3">Aceptar</button>
+      <button mat-raised-button color="warn" routerLink="/business/artists" class="mx-3">Cancelar</button>
+      <p>{{mensaje}}</p>
+
+    </form>
+  </div>
+</ng-container>
+</body>
+</html>
